@@ -1,7 +1,7 @@
 # Cafe-management-Reactjs
 A cafe management system using react.js and redux.
 
-[img]https://i.imgur.com/FXHbo5U.png[/img]
+![img]https://i.imgur.com/FXHbo5U.png
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
