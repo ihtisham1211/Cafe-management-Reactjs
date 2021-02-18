@@ -1,7 +1,7 @@
 # Cafe-management-Reactjs
 A cafe management system using react.js and redux.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/e7Vm1Pn" data-context="false" ><a href="//imgur.com/a/e7Vm1Pn">Ijaz cafe</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[img]https://i.imgur.com/FXHbo5U.png[/img]
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
